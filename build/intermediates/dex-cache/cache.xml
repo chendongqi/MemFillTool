@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/chendongqi/AndroidStudioProjects/MemFillTool/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cb72019ac7ffddfb9f623dbb7ce1c266821ad1c">
+        <dex dex="/home/chendongqi/AndroidStudioProjects/MemFillTool/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_340fc1987c38cb3a3490d848783e74623ab8856c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chendongqi/AndroidStudioProjects/MemFillTool/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/chendongqi/AndroidStudioProjects/MemFillTool/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f305e80c50004c87a63e447391502a709d612d9f/classes.dex" />
+    </item>
+
+</items>

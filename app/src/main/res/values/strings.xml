@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MemFillTool</string>
+    <string name="button_fillmem">Fill Memory</string>
+    <string name="button_freemem">Free Memory</string>
+    <string name="title_lmk_info">Low Memory Kill information</string>
+    <string name="title_mem_info">System Memory Information</string>
+</resources>
